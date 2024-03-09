@@ -1,1 +1,2 @@
-# 3-slideshow-mini-Project
+slideshow-mini-Project
+html, css, javascript
